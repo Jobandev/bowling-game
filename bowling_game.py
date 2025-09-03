@@ -7,7 +7,7 @@ A module for calculating bowling game scores.
 class BowlingGame:
     def __init__(self):
         # Initialize a new game with 10 frames
-        # Each frame has up to 2 rolls (except the 10th frame which can have 3)
+        # Each frame has up to 2 rolls (except the 10th frame which can have 3 )
         self.rolls = []
         self.current_roll = 0
 
