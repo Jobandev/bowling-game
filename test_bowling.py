@@ -1,5 +1,5 @@
 """
-Unit tests for the BowlingGame class.
+Unit tests for the BowlingGame class .
 
 This module contains comprehensive unit tests to validate the bowling game
 implementation against the business rules specified in the project requirements.
